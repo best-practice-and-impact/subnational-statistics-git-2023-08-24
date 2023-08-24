@@ -1,5 +1,5 @@
 # Git workshop template
-This repository is a template for running a workshop on collaborating using Git.
+This repository is for the Git workshop for Subnational Statistics on 2023-08-24.
 
 It contains several simple tasks, chosen to allow people to focus on using Git and working together on code in pairs.
 These tasks can be accessed via the `Issues` or `Projects` tab.
